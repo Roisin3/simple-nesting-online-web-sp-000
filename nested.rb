@@ -68,7 +68,8 @@ def adding_matz
     }
   }
 =end
-    programmer 
+    programmer_hash[:yukihiro_matsumoto] = {}
+    programmer_hash[:yukihiro_matsumoto][:known_for] << 
 	programmer_hash = 
  		{
         :grace_hopper => {
